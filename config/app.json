@@ -1,0 +1,23 @@
+{
+	"allowAutoBet": false,
+	"enterProtection": true,
+
+	"maxGales": 15,
+
+	"minimumBetAmount": 0.1,
+
+	"initialBalance": 18.83,
+
+	"betAmount": 0.30,
+	"betNetProfitAmount": 0.10,
+
+	"autoCrashAt": 1.80,
+
+	"sequenceForTrend": 3,
+
+	"stopLoss": 0.2,
+	"stopLossTime": 20,
+
+	"stopWin": 5,
+	"stopWinTime": 10
+}
